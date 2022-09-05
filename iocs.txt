@@ -1,0 +1,13 @@
+microsoft-single.ddns.net
+docs.cooporatestock.com
+ninjaone.x24hr.com
+15906-28547.bacloud.info
+41.215.149.92
+sdln1203.e2.luyouxia.net/mimikatz.exe
+aaa.bacloud.info
+145.218.52.31
+213.252.245.89
+181.129.134.18
+45.81.16.142
+edit.wpsonline.co
+--utility-sub-type=network.mojom.networkservice
